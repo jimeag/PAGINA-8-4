@@ -16,3 +16,10 @@ body{
     
 
 }
+
+.imngtec{
+height: 300px;
+width: 300px;
+background-image: url("circuitoelectrico.jpg");
+
+}
