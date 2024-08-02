@@ -25,9 +25,21 @@ background-image: url("circuitoelectrico.jpg");
 }
 
 .imagtec2{
-height: 300px;
-width: 350px;
+height: 500px;
+width: 1000px;
 background-image:url(circuitoelectrico1.jpg) ;
 
 }
+
+.imagsociales{
+height: 1000px;
+width: 1900px;
+background-image: url(MapaMentalsociales1.jpg);
+}
+
+
+
+
+
+
 
