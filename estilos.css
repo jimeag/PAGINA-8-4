@@ -5,7 +5,7 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(241, 115, 115);
+    color: rgb(60, 255, 0);
 }
 .principal{
    display: flex;
@@ -17,10 +17,10 @@ body{
 
 }
 
-.imngtec{
+.imagtec{
 height: 300px;
-width: 300px;
-background-image: url("circuitoelectrico.jpg");
+width: 500px;
+background-image: url("circuito_simple.jpg");
 
 }
 
@@ -38,8 +38,99 @@ background-image: url(MapaMentalsociales1.jpg);
 }
 
 
+.imagebulimia{
+height: 500px;
+width: 800px;
+background-image: url(bulimia1-1.jpg);
+
+}
+
+.imagecomsalu{
+height: 600px;
+width: 1000px;
+background-image: url(comer-saludable.jpg);
+}
+
+.imageactividadfisicas{
+height: 100px;
+width: 300px;
+background-image: url(actividadfisica.jpg);
+
+}
+
+.dormir{
+height: 100px;
+width: 300px;
+background-image: url(dormir.jpg);
+
+}
 
 
+.excesos{
+height: 150px;
+width: 200px;
+background-image: url(exesos.jpg);
 
+}
 
+.meditar{
+height: 720px;
+width: 1000px;
+background-image: url(meditar.jpg);
+}
 
+.estudiar{
+height: 449px;
+width: 675px;
+background-image: url(como-estudiar.jpg);
+
+}
+
+.leer{
+height: 600px;
+width: 1000px;
+background-image: url(aprender-a-leer.jpg);
+
+}
+
+.nodesayunar{
+height: 675px;
+width: 1200px;
+background-image: url(no-desayunar-aumenta-riesgo-diabetes.jpg);
+
+}
+
+.insomnio{
+height: 900px;
+width: 1600px;
+background-image: url(insomnio.jpg);
+
+}
+
+.noactividadfisica{
+height: 540px;
+width: 960px;
+background-image: url(noactividadfisica.jpg);
+
+}
+
+.comerd{
+height: 848px;
+width: 1200px;
+background-image: url(comer.jpg);
+
+}
+
+.estres{
+height: 500px;
+width: 800px;
+background-image: url(estres.jpg);
+
+}
+
+.sol{
+height: 440px;
+width: 600px;
+background-image: url(sol.jpg);
+
+}
