@@ -5,7 +5,7 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(60, 255, 0);
+    color: rgb(0, 153, 255);
 }
 .principal{
    display: flex;
@@ -134,3 +134,13 @@ width: 600px;
 background-image: url(sol.jpg);
 
 }
+
+.imagenexcel{
+height: 150px;
+width: 300px;
+background-image: url(excel.jpg);
+
+}
+
+
+
