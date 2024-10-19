@@ -5,7 +5,7 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(0, 153, 255);
+    color: rgb(255, 0, 0);
 }
 .principal{
    display: flex;
@@ -165,3 +165,51 @@ background-image: url(jime.png);
 
 }
 
+.imagen1ingles{
+height: 1000px;
+width: 1000px;
+background-image: url(imagen1ingles.jpg);
+
+}
+
+.imagen2ingles{
+height: 1000px;
+width: 1000px;
+background-image: url(imagen2ingles.jpg);
+
+}
+
+.imagen3ingles{
+height: 1000px;
+width: 1000px;
+background-image: url(imagen3ingles.jpg);
+
+}
+
+.imagen4ingles{
+height: 400px;
+width: 700px;
+background-image: url(imagen4ingles.jpg);
+
+}
+
+.imagen5ingles{
+height: 250px;
+width: 450px;
+background-image: url(imagen5ingles.jpg);
+
+}
+
+.imagen6ingles{
+height: 550px;
+width: 900px;
+background-image: url(imagen6ingles.jfif);
+
+}
+
+.imagen7ingles{
+height: 250px;
+width: 250px;
+background-image: url(imagen7ingles.jpg);
+
+}
